@@ -1,5 +1,6 @@
 h1 {
 	font-family: "Lucida Bright", Georgia, serif;
+	font-color: #4D5656;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
@@ -8,10 +9,11 @@ h1 {
 }
 p {
 	font-family: sans-serif;
+	font-color: #4D5656;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 20px;
 }
-a {color: #F1B603;}
+a {color: #F07E7E;}
