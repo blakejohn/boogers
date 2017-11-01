@@ -1,13 +1,23 @@
-    <style>
-      p {
-        color: #424949;
-        font-family: "Helvetica Neue", Arial, sans-serif;
-        font-size: 2em;
-      }
-      h {
-        font-style: italic;
-      }
-      a {
-        color: #F1B603;
-      }
-    </style>
+h1 {
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h2 {
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+p {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
