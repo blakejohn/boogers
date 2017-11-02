@@ -6,8 +6,7 @@ h1 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
-	margin-left: auto;
-	align: center;
+	margin: 12px;
 }
 p {
 	font-family: sans-serif;
@@ -19,8 +18,7 @@ p {
 	line-height: 20px;
 }
 p { 
-	margin: auto;
+	margin: 12px;
 	width: 900px;
-	align: left;
 }
 a {color: #B03A2E;}
