@@ -1,6 +1,18 @@
 h1 {
 	font-family: "Lucida Bright", Georgia, serif;
 	font-color: #4D5656;
+	font-size: 36px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	margin: 12px;
+	text-align: center;
+	padding: .5em;
+}
+h2 {
+	font-family: "Lucida Bright", Georgia, serif;
+	font-color: #4D5656;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
