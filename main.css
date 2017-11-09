@@ -25,7 +25,7 @@ nav ul {
 
 h1 {
 	font-family: "Lucida Bright", Georgia, serif;
-	font-color: #4D5656;
+	color: #4D5656;
 	font-size: 36px;
 	font-style: normal;
 	font-variant: normal;
@@ -37,7 +37,7 @@ h1 {
 }
 h2 {
 	font-family: "Lucida Bright", Georgia, serif;
-	font-color: #4D5656;
+	color: #4D5656;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
@@ -48,7 +48,7 @@ h2 {
 }
 p {
 	font-family: sans-serif;
-	font-color: #4D5656;
+	color: #4D5656;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -57,6 +57,6 @@ p {
 }
 p { 
 	margin: 12px;
-	width: 800px;
+	width: 100%;
 }
 a {color: #B03A2E;}
